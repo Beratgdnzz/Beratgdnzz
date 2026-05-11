@@ -16,9 +16,9 @@ I am a passionate Software Developer and an 11th-grade student based in Istanbul
 ---
 
 ### 📜 Certifications
-* 🎓 ** [React Native 101]([./BERAT-React-Native-101.pdf](https://gelecegiyazanlar.turkcell.com.tr/sertifika/48b0564c7f6d40b1aa47380328525f32))
-* 🎓 ** [React Native 201]([./BERAT-React-Native-201.pdf](https://gelecegiyazanlar.turkcell.com.tr/sertifika/8f081a4d3c0a40d7b03f5434e72abd85))
-* 🎓 ** [React Native 301]([./BERAT-React-Native-301.pdf](https://gelecegiyazanlar.turkcell.com.tr/sertifika/7e646b8420e942fd9cb8f749b850e81e))
+* 🎓 ** [React Native 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/48b0564c7f6d40b1aa47380328525f32)
+* 🎓 ** [React Native 201](https://gelecegiyazanlar.turkcell.com.tr/sertifika/8f081a4d3c0a40d7b03f5434e72abd85)
+* 🎓 ** [React Native 301](https://gelecegiyazanlar.turkcell.com.tr/sertifika/7e646b8420e942fd9cb8f749b850e81e)
 
 ---
 
