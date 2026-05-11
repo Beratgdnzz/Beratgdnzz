@@ -24,7 +24,7 @@ I am a passionate Software Developer and an 11th-grade student based in Istanbul
 
 ### 📫 Connect with me
 - 📧 **Email:** [beratgunduz63@gmail.com](mailto:beratgunduz63@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/BeratGdnzz)
+- 💼 **LinkedIn:** [linkedin.com/in/Berat-Gdnzz](https://linkedin.com/in/Berat-Gdnzz)
 
 ---
 "The best way to predict the future is to invent it." ✨
